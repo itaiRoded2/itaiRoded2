@@ -4,9 +4,6 @@
 
 - 🌱 I’m currently learning: Anthing web related 
 
-- 💞️ I’m looking to collaborate on:
-Making $$ for me and you. Or just writing clean code. 
-
 - 📫 How to reach me:
 itai.mywork@gmail.com
 
